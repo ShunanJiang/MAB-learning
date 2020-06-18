@@ -3,7 +3,7 @@ A Multi-armed bandits learning group lasting four weeks
 
 # Members
 * Shunan Jiang (shunan_jiang@berkeley.edu)
-* Yufeng Zheng (yufeng_zheng@berkeley.edu)
+* Yufeng Zheng (Hector) (yufeng_zheng@berkeley.edu)
 * Mo Liu (mo_liu@berkeley.edu)
 
 # Textbook
@@ -14,7 +14,7 @@ Zoom: https://berkeley.zoom.us/j/97478740713
 
 # Schedule
 * ~~June 15 19:30 PST, Shunan Jiang, Stochastic Bandits~~
-* June 17 19:30 PST, Yufeng Zheng, Lower Bounds
+* ~~June 17 19:30 PST, Yufeng Zheng, Lower Bounds~~
 * June 19 19:30 PST, Mo Liu, Bayesian Bandits and Thompson Sampling
 * June 22 19:30 PST, Shunan Jiang, Lipschitz Bandits
 * June 24 19:30 PST, Yufeng Zheng, Full Feedback and Adversarial Costs
