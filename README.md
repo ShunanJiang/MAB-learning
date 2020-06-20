@@ -5,6 +5,7 @@ A Multi-armed bandits learning group lasting four weeks
 * Shunan Jiang (shunan_jiang@berkeley.edu)
 * Yufeng Zheng (Hector) (yufeng_zheng@berkeley.edu)
 * Mo Liu (mo_liu@berkeley.edu)
+* Hansheng Jiang 
 
 # Textbook
 Aleksandrs Slivkins (2019), "Introduction to Multi-Armed Bandits", Foundations and Trends® in Machine Learning: Vol. 12: No. 1-2, pp 1-286. http://dx.doi.org/10.1561/2200000068
@@ -15,15 +16,15 @@ Zoom: https://berkeley.zoom.us/j/97478740713
 # Schedule
 * ~~June 15 19:30 PST, Shunan Jiang, Stochastic Bandits~~
 * ~~June 17 19:30 PST, Yufeng Zheng, Lower Bounds~~
-* June 19 19:30 PST, Mo Liu, Bayesian Bandits and Thompson Sampling
+* ~~June 19 19:30 PST, Mo Liu, Bayesian Bandits and Thompson Sampling~~
 * June 22 19:30 PST, Shunan Jiang, Lipschitz Bandits
 * June 24 19:30 PST, Yufeng Zheng, Full Feedback and Adversarial Costs
-* June 26 19:30 PST, Mo Liu, Adversarial Bandits
-* June 29 19:30 PST, Shunan Jiang, Linear Costs and Semi-bandits
-* July 1 19:30 PST, Yufeng Zheng, Contextual Bandits
-* July 3 19:30 PST, Mo Liu, Bandits and Games
-* July 6 19:30 PST, Shunan Jiang, Bandits with Knapsacks
-* July 8 19:30 PST, Yufeng Zheng, Bandits and Incentives
+* June 26 19:30 PST, Hansheng Jiang, Adversarial Bandits
+* June 29 19:30 PST, Mo Liu, Linear Costs and Semi-bandits
+* July 1 19:30 PST, Shunan Jiang, Contextual Bandits
+* July 3 19:30 PST, Yufeng Zheng, Bandits and Games
+* July 6 19:30 PST, Mo Liu, Bandits with Knapsacks
+* July 8 19:30 PST, Shunan Jiang, Bandits and Incentives
 
 
 # Comments
