@@ -5,7 +5,7 @@ A Multi-armed bandits learning group lasting four weeks
 * Shunan Jiang (shunan_jiang@berkeley.edu)
 * Yufeng Zheng (Hector) (yufeng_zheng@berkeley.edu)
 * Mo Liu (mo_liu@berkeley.edu)
-* Hansheng Jiang 
+* Hansheng Jiang (hansheng_jiang@berkeley.edu)
 
 # Textbook
 Aleksandrs Slivkins (2019), "Introduction to Multi-Armed Bandits", Foundations and Trends® in Machine Learning: Vol. 12: No. 1-2, pp 1-286. http://dx.doi.org/10.1561/2200000068
