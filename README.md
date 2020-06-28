@@ -19,7 +19,7 @@ Zoom: https://berkeley.zoom.us/j/97478740713
 * ~~June 19 19:30 PST, Mo Liu, Bayesian Bandits and Thompson Sampling~~
 * ~~June 22 19:30 PST, Shunan Jiang, Lipschitz Bandits~~
 * ~~June 24 19:30 PST, Yufeng Zheng, Full Feedback and Adversarial Costs~~
-* ~~June 26 19:30 PST, Hansheng Jiang, Adversarial Bandits
+* ~~June 26 19:30 PST, Hansheng Jiang, Adversarial Bandits~~
 * June 29 19:30 PST, Mo Liu, Linear Costs and Semi-bandits
 * July 1 19:30 PST, Shunan Jiang, Contextual Bandits
 * July 3 19:30 PST, Yufeng Zheng, Bandits and Games
